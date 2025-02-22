@@ -1,0 +1,57 @@
+name: vibra_voice_notes_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.0.0
+  flutter_feather_icons: ^2.0.0+1
+  device_preview: ^1.2.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.4
+  flutter_svg: ^2.0.17
+  infinite_scroll_pagination: ^4.1.0
+  intl: 0.19.0
+  just_audio: ^0.9.45
+  path_provider: ^2.1.5
+  permission_handler: ^11.3.1
+  record: ^5.2.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_native_splash:
+  color: "#EEEEEE" # Color of the background of the splash screen
+  image: assets/master/splash_screen.png # image path
+  android_12:
+    image: assets/master/splash_screen.png # image path
+    color: "#EEEEEE" # Color of the background of the splash screen
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/master/icon.png" # Logo image path
+  min_sdk_android: 21
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/master/
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
