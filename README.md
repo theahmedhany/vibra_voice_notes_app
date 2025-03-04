@@ -49,7 +49,7 @@ Vibra redefines how you interact with voice notes, offering a seamless experienc
 https://github.com/user-attachments/assets/91aa9eca-1e67-4ae1-9590-ff056fdde0e4
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_vibra-voicenotes-flutter-activity-7302608222702465024-dFbF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4FnzgB4-BOljZQx1QUyX_wMN1DWKHGx2o"> Click Here. </a>
 
 -----
 
